@@ -1,0 +1,41 @@
+ header {
+      text-align: center;
+      background: url("images/wave.jpg"); 
+      background-size: cover;
+      color: white;
+    }
+ h1 {
+   text-align: center;
+   font-family: 'Righteous', cursive;
+    }  
+h2 {
+font-family: 'Lobster', cursive;
+}
+ body{
+       color: white;
+       font-family: 'Oswald', sans-serif;
+ }
+ img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+    .mainlist {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    .grey {
+      background: #758387;
+    }
+    .navyblue {
+      background: #234769;
+   }
+    .darkblue {
+       background: #130747;
+}
+    a {
+      color: white;
+    }
+ 
