@@ -18,8 +18,8 @@ font-family: 'Lobster', cursive;
       margin: 40px 0px 0px 0px;
       border: 7px solid white;
       border-radius: 20px;
-    }
-    .mainlist {
+} 
+.mainlist {
       padding: 10px;
       background: rgba(0,0,0,0.5);
       display: inline;
