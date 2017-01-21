@@ -1,7 +1,8 @@
- header {
+  header {
       text-align: center;
-      background: url("https://lh3.google.com/u/0/d/0BxdNWwxCXD0FNTZUeFZ0MXlrZkU=w1680-h888-iv2"); 
+      background: url('https://lh3.google.com/u/0/d/0BxdNWwxCXD0FNTZUeFZ0MXlrZkU=w1680-h888-iv2');
       background-size: cover;
+      color: white;
     }
  h1 {
    text-align: center;
