@@ -26,15 +26,6 @@ font-family: 'Lobster', cursive;
       display: inline;
       padding: 0px 10px 0px 10px;
     }
-    .grey {
-      background: #758387;
-    }
-    .navyblue {
-      background: #234769;
-   }
-    .darkblue {
-       background: #130747;
-}
     a {
       color: white;
     }
