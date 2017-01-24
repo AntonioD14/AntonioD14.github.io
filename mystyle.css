@@ -1,6 +1,6 @@
    header {
       text-align: center;
-      background: url('https://lh3.google.com/u/0/d/0BxdNWwxCXD0FNTZUeFZ0MXlrZkU=w1680-h888-iv2');
+      background: url('images/wave2.jpg');
       background-size: cover;
       color: white;
     }
@@ -33,7 +33,8 @@
       font-family: 'Oswald', sans-serif;
 }
 body {
- background: rgb(35,71,105);  
+ background: rgb(35,71,105);
+   color: white;
 }
 @media (max-width: 500px) {
       h1 {
