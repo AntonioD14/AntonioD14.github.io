@@ -1,41 +1,34 @@
-  header {
+   header {
       text-align: center;
-      background: url("images/wave2.jpg");
+      background: url('https://lh3.google.com/u/0/d/0BxdNWwxCXD0FNTZUeFZ0MXlrZkU=w1680-h888-iv2');
       background-size: cover;
       color: white;
-    }
- h1 {
-   text-align: center;
-   font-family: 'Lobster', cursive;
-    }  
-h2 {
-font-family: 'Lobster', cursive;
-}
- body{
-       color: white;
-       font-family: 'Oswald', sans-serif;
-       background: rgb(25,71,105);
- }
- img {
-      margin: 40px 0px 0px 0px;
-      border: 7px solid white;
-      border-radius: 20px;
-} 
-.mainlist {
-      padding: 10px;
-      background: rgba(0,0,0,0.5);
-      display: inline;
-      padding: 0px 10px 0px 10px;
     }
     a {
       color: white;
     }
-  article {
+    h1 {
+      font-size: 70px;
+    }
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+    ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+    article {
       max-width: 500px;
       padding: 20px;
       margin: 0 auto;
     }
- @media (max-width: 500px) {
+@media (max-width: 500px) {
       h1 {
         font-size: 36px;
         padding: 5px;
@@ -44,4 +37,12 @@ font-family: 'Lobster', cursive;
         padding: 5px;
         display: block;
       }
+    }
+.mainlist {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+  
  
