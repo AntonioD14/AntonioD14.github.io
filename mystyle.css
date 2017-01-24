@@ -1,8 +1,9 @@
   header {
       text-align: center;
-      background: url("images/wave2.jpg");
+      background: url("images/wave2.jpg") 
       background-size: cover;
       color: white;
+      width: 500;
     }
  h1 {
    text-align: center;
