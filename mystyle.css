@@ -28,6 +28,9 @@
       padding: 20px;
       margin: 0 auto;
     }
+body {
+ background: (35,71,105);  
+}
 @media (max-width: 500px) {
       h1 {
         font-size: 36px;
